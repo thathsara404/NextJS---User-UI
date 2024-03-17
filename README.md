@@ -1,4 +1,10 @@
-This is a Next JS UI application
+This is a Next JS UI application.
+
+## Installation
+
+```bash
+$ yarn install
+```
 
 ## Getting Started
 
@@ -7,6 +13,7 @@ First, run the development server:
 ```bash
 yarn dev
 ```
+Change the .env.local file with your backend URI (if need)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
